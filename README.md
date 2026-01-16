@@ -7,3 +7,4 @@ Repositori (repo) ini akan menjadi objek untuk pembelajaran anda. Step-step yang
 -CodeSaya, tempat belajar coding seru, mudah, dan gratis!
 git clone https://github.com/muhammadhilmyhuda/codesaya-git.git
 git branch satu
+git checkout satu
